@@ -17,3 +17,13 @@ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.
 ```
 sudo apt-get install -y neovim
 ```
+
+### lua
+```
+sudo apt install lua5.3
+```
+
+### tmux
+```
+sudo apt install tmux
+```
